@@ -1,0 +1,11 @@
+{
+  "name": "next-gen-javascript",
+  "version": "1.0.0",
+  "description": "ES6 examples",
+  "main": "arrowFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raokarthik83@gmail.com",
+  "license": "ISC"
+}
